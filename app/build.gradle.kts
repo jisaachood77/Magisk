@@ -211,7 +211,7 @@ dependencies {
     implementation("com.github.topjohnwu.libsu:core:${vLibsu}")
     implementation("com.github.topjohnwu.libsu:io:${vLibsu}")
 
-    val vKoin = "2.1.6"
+    val vKoin = "2.2.2"
     implementation("org.koin:koin-core:${vKoin}")
     implementation("org.koin:koin-android:${vKoin}")
     implementation("org.koin:koin-androidx-viewmodel:${vKoin}")
