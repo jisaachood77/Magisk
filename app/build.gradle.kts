@@ -221,7 +221,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-moshi:${vRetrofit}")
     implementation("com.squareup.retrofit2:converter-scalars:${vRetrofit}")
 
-    val vOkHttp = "3.12.12"
+    val vOkHttp = "4.9.1"
     implementation("com.squareup.okhttp3:okhttp") {
         version {
             strictly(vOkHttp)
