@@ -234,7 +234,7 @@ dependencies {
     implementation("com.squareup.moshi:moshi:${vMoshi}")
     kapt("com.squareup.moshi:moshi-kotlin-codegen:${vMoshi}")
 
-    val vRoom = "2.3.0-beta01"
+    val vRoom = "2.3.0-beta03"
     implementation("androidx.room:room-runtime:${vRoom}")
     implementation("androidx.room:room-ktx:${vRoom}")
     kapt("androidx.room:room-compiler:${vRoom}")
